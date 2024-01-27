@@ -1,3 +1,4 @@
 # chess
  my second
- auther- Samridh
+ <br>
+ author- Samridh
