@@ -1,4 +1,4 @@
 # chess
  my second
  <br>
- author- Samridh
+ author- Samridh Pratap Singh
